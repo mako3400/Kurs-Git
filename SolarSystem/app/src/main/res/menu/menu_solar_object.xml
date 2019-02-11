@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pl.eduweb.solarsystem.SolarObjectActivity">
+    <item
+        android:id="@+id/action_set_as_wallpaper"
+        android:orderInCategory="100"
+        android:title="Set as wallpaper"
+        app:showAsAction="never" />
+</menu>
